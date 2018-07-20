@@ -29,7 +29,7 @@ parameter: -jar <your shared folder>/IntegrityChartStarter.jar
 
 ## Configuration
 
-Define a custom property on type level. Set the Export Configurations to the once you usually select in the Gateway. 
+Define a custom property on type level. Set the Chart Configurations to the once you would like to display to the user. 
 ```
 Name:  Chart.Configurations
 Value: <ChartName1>,<ChartName2>,<ChartName3>
