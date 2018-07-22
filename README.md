@@ -52,7 +52,7 @@ Description: (Custom) List of Charts to run for this type
 - Java 1.7 (or 1.8)
 
 ## Hints
-- There is another build-in configuration. When enabled, the Chart Starter is picking up automatically all type related admin or r user charts. Surprinsingly this method is not working anymore, although the code looks still good. 
+- There is another build-in configuration. When enabled, the Chart Starter is picking up automatically all type related admin or user charts. Surprinsingly, this method isn't working anymore, although the code looks still good. 
 - There is a brother available, the Report Starter. With almost the same functionality.
 
 ## Known Limitations
