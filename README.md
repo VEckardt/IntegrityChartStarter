@@ -54,6 +54,7 @@ Description: (Custom) List of Charts to run for this type
 ## Hints
 - There is another build-in configuration. When enabled, the Chart Starter is picking up automatically all type related admin or user charts. Surprinsingly, this method isn't working anymore, although the code looks still good. 
 - There is a brother available, the Report Starter. With almost the same functionality.
+- This solution is from year 2014 (10.3). If I would have to build it once more, I would probably use a web solution instead. But, our charting module and the possibility to open items by clicking at the chart itself isn't too bad, right?
 
 ## Known Limitations
 - n/a
